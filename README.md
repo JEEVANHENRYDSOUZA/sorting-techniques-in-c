@@ -1,1 +1,0 @@
-# sorting-techniques-in-c

@@ -1,4 +1,5 @@
 // C++ program for insertion sort
+//time complexity is o(n^2)
 
 #include <iostream>
 using namespace std;
